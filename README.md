@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm Anag MK 👋
+# Hey there! I'm Anag MK 👋 
 ### Full Stack Developer | MERN Stack | Building Real-World Apps
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+with+Node.js+%2B+React+%2B+MongoDB;Open+to+Internship+Opportunities;Let's+build+something+real+🚀)](https://git.io/typing-svg)
